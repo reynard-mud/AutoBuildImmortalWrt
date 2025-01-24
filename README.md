@@ -12,6 +12,12 @@
 > 5、新增全志平台R1S、香橙派Zero3等机型的工作流<br>
 > 6、新增用户预设置pppoe拨号功能<br>
 > 7、新增树莓派①②③④⑤<br>
+
+### 公告插播
+工作流建议先不要用24.10 这条。因为目前编译不过。网页版在线构建也是报错的。<br>
+建议等项目团队修复了该bug再用。到时候我会撤掉这个公告.<br>
+相关issue 追踪:https://github.com/wukongdaily/AutoBuildImmortalWrt/issues/61
+
 ## 如何查询都有哪些插件?
 https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/23.05.4/packages/aarch64_cortex-a53/luci/ <br>
 https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/23.05.4/packages/x86_64/luci/ 
@@ -26,5 +32,7 @@ https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/23.05.4/packages/x86_64/l
 https://github.com/wukongdaily/RunFilesBuilder<br>
 https://github.com/wukongdaily/DockerTarBuilder
 
+## ❤️如何构建docker版ImmortalWrt（建议收藏）⬇️
+https://wkdaily.cpolar.top/15
 # 🌟鸣谢
 ### https://github.com/immortalwrt
